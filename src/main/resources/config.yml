@@ -1,0 +1,8 @@
+# The list of countries that must match the country of the player in order to be warned
+# You can use regex for more advanced match possibilities (blacklist or whitelist)
+# Country codes are listed at http://dev.maxmind.com/geoip/legacy/codes/iso3166/
+countries: []
+
+# The warn message the players get when their country matches the countries patterns above
+# Supports the '&' character for colors, of course
+warn-message: '&cYou can connect to eu.example.com to get a better connection to the server, resulting in less latency'

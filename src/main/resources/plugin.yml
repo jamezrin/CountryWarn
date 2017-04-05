@@ -1,0 +1,3 @@
+name: CountryWarn
+version: ${project.version}
+main: me.jaimemartz.countrywarn.CountryWarn
